@@ -1,0 +1,4 @@
+- Enabled Process Creation 4688 (+ CommandLine)
+- Enabled Logon success/failure
+- Installed Sysmon (default)
+- Verfied Sysmon EID 1 and Security 4688 with CommdandLine
